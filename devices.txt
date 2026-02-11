@@ -1,0 +1,5 @@
+# Network Devices / One IP address or hostname per line
+
+8.8.8.8
+google.com
+quest.slb.com
